@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.372985,
+          48.845623
+        ]
+      },
+      "properties": {
+        "exit_id": "2872283",
+        "alias": "ZW01 - Gare de Lyon M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373488,
+          48.843815
+        ]
+      },
+      "properties": {
+        "exit_id": "2872685",
+        "alias": "ZW02 - Gare de Lyon RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.320562,
+          48.841299
+        ]
+      },
+      "properties": {
+        "exit_id": "7034517",
+        "alias": "ZW03 - Montparnasse - Bienven\u00fce M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.296965,
+          48.874069
+        ]
+      },
+      "properties": {
+        "exit_id": "2872557",
+        "alias": "ZW04 - Charles de Gaulle - Etoile RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.295924,
+          48.874561
+        ]
+      },
+      "properties": {
+        "exit_id": "2871918",
+        "alias": "ZW05 - Charles de Gaulle - Etoile M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333432,
+          48.83314
+        ]
+      },
+      "properties": {
+        "exit_id": "2872614",
+        "alias": "ZW06 - Denfert Rochereau RER B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346657,
+          48.862083
+        ]
+      },
+      "properties": {
+        "exit_id": "6428906",
+        "alias": "ZW07 - Ch\u00e2telet - Les Halles RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.325618,
+          48.870319
+        ]
+      },
+      "properties": {
+        "exit_id": "2872682",
+        "alias": "ZW08 - Madeleine M14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364742,
+          48.867619
+        ]
+      },
+      "properties": {
+        "exit_id": "14463457",
+        "alias": "ZW09 - R\u00e9publique M11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.416612,
+          48.865269
+        ]
+      },
+      "properties": {
+        "exit_id": "8619223",
+        "alias": "ZW10 - Gallieni M3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323409,
+          48.866203
+        ]
+      },
+      "properties": {
+        "exit_id": "2871935",
+        "alias": "ZW11 - Concorde M12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28356,
+          48.878941
+        ]
+      },
+      "properties": {
+        "exit_id": "2872360",
+        "alias": "ZW12 - Porte Maillot M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.781849,
+          48.869861
+        ]
+      },
+      "properties": {
+        "exit_id": "5124527",
+        "alias": "ZW13 - Marne-la-Vall\u00e9e - Chessy RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356949,
+          48.879417
+        ]
+      },
+      "properties": {
+        "exit_id": "2872665",
+        "alias": "ZW14 - Gare du Nord M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.774137,
+          48.855755
+        ]
+      },
+      "properties": {
+        "exit_id": "5117197",
+        "alias": "ZW15 - Val d'Europe RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324503,
+          48.875957
+        ]
+      },
+      "properties": {
+        "exit_id": "2871983",
+        "alias": "ZW16 - Saint-Lazare M14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.289001,
+          48.854337
+        ]
+      },
+      "properties": {
+        "exit_id": "2872115",
+        "alias": "ZW17 - Bir Hakeim M6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369057,
+          48.854214
+        ]
+      },
+      "properties": {
+        "exit_id": "14463415",
+        "alias": "ZW18 - Bastille M5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332387,
+          48.870461
+        ]
+      },
+      "properties": {
+        "exit_id": "2872047",
+        "alias": "ZW19 - Op\u00e9ra M8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24236,
+          48.891758
+        ]
+      },
+      "properties": {
+        "exit_id": "4991110",
+        "alias": "ZW20 - La D\u00e9fense RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34449,
+          48.853504
+        ]
+      },
+      "properties": {
+        "exit_id": "2872169",
+        "alias": "ZW21 - Saint-Michel M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343733,
+          48.871479
+        ]
+      },
+      "properties": {
+        "exit_id": "2872162",
+        "alias": "ZW22 - Grands Boulevards M8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328612,
+          48.873657
+        ]
+      },
+      "properties": {
+        "exit_id": "2872344",
+        "alias": "ZW23 - Havre - Caumartin M3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336236,
+          48.862583
+        ]
+      },
+      "properties": {
+        "exit_id": "2872637",
+        "alias": "ZW24 - Palais-Royal - Mus\u00e9e du Louvre M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307512,
+          48.869999
+        ]
+      },
+      "properties": {
+        "exit_id": "2872140",
+        "alias": "ZW25 - Franklin D. Roosevelt M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28768,
+          48.832016
+        ]
+      },
+      "properties": {
+        "exit_id": "2872269",
+        "alias": "ZW26 - Porte de Versailles M12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30955,
+          48.868481
+        ]
+      },
+      "properties": {
+        "exit_id": "2872517",
+        "alias": "ZW27 - Franklin D. Roosevelt M9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.288436,
+          48.86303
+        ]
+      },
+      "properties": {
+        "exit_id": "2872611",
+        "alias": "ZW28 - Trocad\u00e9ro M6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332929,
+          48.873375
+        ]
+      },
+      "properties": {
+        "exit_id": "2872133",
+        "alias": "ZW29 - Chauss\u00e9e d'Antin M7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353887,
+          48.869301
+        ]
+      },
+      "properties": {
+        "exit_id": "2872218",
+        "alias": "ZW30 - Strasbourg - Saint-Denis M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386253,
+          48.897358
+        ]
+      },
+      "properties": {
+        "exit_id": "2872703",
+        "alias": "ZW31 - Porte de la Villette M7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.237142,
+          48.892487
+        ]
+      },
+      "properties": {
+        "exit_id": "1870703",
+        "alias": "ZW32 - La D\u00e9fense RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36425,
+          48.842934
+        ]
+      },
+      "properties": {
+        "exit_id": "14559687",
+        "alias": "ZW33 - Gare d'Austerlitz M10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.250847,
+          48.888036
+        ]
+      },
+      "properties": {
+        "exit_id": "14877285",
+        "alias": "ZW34 - Esplanade de La D\u00e9fense M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35214,
+          48.857052
+        ]
+      },
+      "properties": {
+        "exit_id": "2871908",
+        "alias": "ZW35 - H\u00f4tel de Ville M11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355585,
+          48.832169
+        ]
+      },
+      "properties": {
+        "exit_id": "14559689",
+        "alias": "ZW36 - Place d'Italie M5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347138,
+          48.85519
+        ]
+      },
+      "properties": {
+        "exit_id": "2872317",
+        "alias": "ZW37 - Cit\u00e9 M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314501,
+          48.860916
+        ]
+      },
+      "properties": {
+        "exit_id": "2872732",
+        "alias": "ZW38 - Invalides M13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34265,
+          48.919323
+        ]
+      },
+      "properties": {
+        "exit_id": "4958655",
+        "alias": "ZW39 - Carrefour Pleyel M13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301422,
+          48.755608
+        ]
+      },
+      "properties": {
+        "exit_id": "5134879",
+        "alias": "ZW40 - Antony RER B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377592,
+          48.83001
+        ]
+      },
+      "properties": {
+        "exit_id": "14559688",
+        "alias": "ZW41 - Biblioth\u00e8que Fran\u00e7ois Mitterand M14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.440449,
+          48.844547
+        ]
+      },
+      "properties": {
+        "exit_id": "2235705",
+        "alias": "ZW42 - Ch\u00e2teau de Vincennes M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344279,
+          48.897636
+        ]
+      },
+      "properties": {
+        "exit_id": "2871872",
+        "alias": "ZW43 - Porte de Clignancourt M4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387492,
+          48.862686
+        ]
+      },
+      "properties": {
+        "exit_id": "14463450",
+        "alias": "ZW44 - P\u00e8re Lachaise M2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356899,
+          48.929904
+        ]
+      },
+      "properties": {
+        "exit_id": "4960627",
+        "alias": "ZW45 - Saint-Denis - Porte de Paris M13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.408806,
+          48.847405
+        ]
+      },
+      "properties": {
+        "exit_id": "2872648",
+        "alias": "ZW46 - Porte de Vincennes M1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338649,
+          48.884434
+        ]
+      },
+      "properties": {
+        "exit_id": "2872193",
+        "alias": "ZW47 - Abbesses M12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305976,
+          48.854706
+        ]
+      },
+      "properties": {
+        "exit_id": "2871907",
+        "alias": "ZW48 - Ecole Militaire M8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3674,
+          48.787476
+        ]
+      },
+      "properties": {
+        "exit_id": "4110260",
+        "alias": "ZW49 - Villejuif - Louis Aragon M7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292737,
+          48.885624
+        ]
+      },
+      "properties": {
+        "exit_id": "2872134",
+        "alias": "ZW50 - Porte de Champerret M3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359048,
+          48.936623
+        ]
+      },
+      "properties": {
+        "exit_id": "4958646",
+        "alias": "ZW51 - Basilique de Saint-Denis M13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354905,
+          48.845947
+        ]
+      },
+      "properties": {
+        "exit_id": "2872036",
+        "alias": "ZW52 - Jussieu M10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386008,
+          48.83353
+        ]
+      },
+      "properties": {
+        "exit_id": "2872691",
+        "alias": "ZW53 - Cour Saint-Emilion M14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.231145,
+          48.82914
+        ]
+      },
+      "properties": {
+        "exit_id": "1869344",
+        "alias": "ZW54 - Pont de S\u00e8vres M9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314308,
+          48.873764
+        ]
+      },
+      "properties": {
+        "exit_id": "2872102",
+        "alias": "ZW55 - Miromesnil M9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346396,
+          48.860332
+        ]
+      },
+      "properties": {
+        "exit_id": "2872567",
+        "alias": "ZW56 - Ch\u00e2telet - Les Halles RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347719,
+          48.861668
+        ]
+      },
+      "properties": {
+        "exit_id": "2872455",
+        "alias": "ZW57 - Ch\u00e2telet - Les Halles RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330096,
+          48.873272
+        ]
+      },
+      "properties": {
+        "exit_id": "2872000",
+        "alias": "ZW58 - Auber RER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340317,
+          48.846794
+        ]
+      },
+      "properties": {
+        "exit_id": "2872089",
+        "alias": "ZW59 - Luxembourg RER B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37992,
+          48.840191
+        ]
+      },
+      "properties": {
+        "exit_id": "2872698",
+        "alias": "ZW60 - Bercy M14"
+      }
+    }
+  ]
+}
