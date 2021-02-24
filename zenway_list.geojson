@@ -15,6 +15,7 @@
         "alias": "ZW01 - Gare de Lyon M1",
         "exit_id": "2872283",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -32,6 +33,7 @@
         "alias": "ZW02 - Gare de Lyon RER A",
         "exit_id": "2872685",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -49,6 +51,7 @@
         "alias": "ZW03 - Montparnasse - Bienven\u00fce M4",
         "exit_id": "7034517",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -66,6 +69,7 @@
         "alias": "ZW04 - Charles de Gaulle - Etoile RER A",
         "exit_id": "2872557",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -83,6 +87,7 @@
         "alias": "ZW05 - Charles de Gaulle - Etoile M1",
         "exit_id": "2871918",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -100,6 +105,7 @@
         "alias": "ZW06 - Denfert Rochereau RER B",
         "exit_id": "2872614",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -117,6 +123,7 @@
         "alias": "ZW07 - Ch\u00e2telet - Les Halles RER A",
         "exit_id": "6428906",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -134,6 +141,7 @@
         "alias": "ZW08 - Madeleine M14",
         "exit_id": "2872682",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -151,6 +159,7 @@
         "alias": "ZW09 - R\u00e9publique M11",
         "exit_id": "14463457",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -168,6 +177,7 @@
         "alias": "ZW10 - Gallieni M3",
         "exit_id": "8619223",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -185,6 +195,7 @@
         "alias": "ZW11 - Concorde M12",
         "exit_id": "2871935",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -202,6 +213,7 @@
         "alias": "ZW12 - Porte Maillot M1",
         "exit_id": "2872360",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -219,6 +231,7 @@
         "alias": "ZW13 - Marne-la-Vall\u00e9e - Chessy RER A",
         "exit_id": "5124527",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -236,6 +249,7 @@
         "alias": "ZW14 - Gare du Nord M4",
         "exit_id": "2872665",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -253,6 +267,7 @@
         "alias": "ZW15 - Val d'Europe RER A",
         "exit_id": "5117197",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -270,6 +285,7 @@
         "alias": "ZW16 - Saint-Lazare M14",
         "exit_id": "2871983",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -287,6 +303,7 @@
         "alias": "ZW17 - Bir Hakeim M6",
         "exit_id": "2872115",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -304,6 +321,7 @@
         "alias": "ZW18 - Bastille M5",
         "exit_id": "14463415",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -321,6 +339,7 @@
         "alias": "ZW19 - Op\u00e9ra M8",
         "exit_id": "2872047",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -338,6 +357,7 @@
         "alias": "ZW20 - La D\u00e9fense RER A",
         "exit_id": "4991110",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -355,6 +375,7 @@
         "alias": "ZW21 - Saint-Michel M4",
         "exit_id": "2872169",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -372,6 +393,7 @@
         "alias": "ZW22 - Grands Boulevards M8",
         "exit_id": "2872162",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -389,6 +411,7 @@
         "alias": "ZW23 - Havre - Caumartin M3",
         "exit_id": "2872344",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -406,6 +429,7 @@
         "alias": "ZW24 - Palais-Royal - Mus\u00e9e du Louvre M1",
         "exit_id": "2872637",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -423,6 +447,7 @@
         "alias": "ZW25 - Franklin D. Roosevelt M1",
         "exit_id": "2872140",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -440,6 +465,7 @@
         "alias": "ZW26 - Porte de Versailles M12",
         "exit_id": "2872269",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -457,6 +483,7 @@
         "alias": "ZW27 - Franklin D. Roosevelt M9",
         "exit_id": "2872517",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -474,6 +501,7 @@
         "alias": "ZW28 - Trocad\u00e9ro M6",
         "exit_id": "2872611",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -491,6 +519,7 @@
         "alias": "ZW29 - Chauss\u00e9e d'Antin M7",
         "exit_id": "2872133",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -508,6 +537,7 @@
         "alias": "ZW30 - Strasbourg - Saint-Denis M4",
         "exit_id": "2872218",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -525,6 +555,7 @@
         "alias": "ZW31 - Porte de la Villette M7",
         "exit_id": "2872703",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -542,6 +573,7 @@
         "alias": "ZW32 - La D\u00e9fense RER A",
         "exit_id": "1870703",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -559,6 +591,7 @@
         "alias": "ZW33 - Gare d'Austerlitz M10",
         "exit_id": "14559687",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -576,6 +609,7 @@
         "alias": "ZW34 - Esplanade de La D\u00e9fense M1",
         "exit_id": "14877285",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -593,6 +627,7 @@
         "alias": "ZW35 - H\u00f4tel de Ville M11",
         "exit_id": "2871908",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -610,6 +645,7 @@
         "alias": "ZW36 - Place d'Italie M5",
         "exit_id": "14559689",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -627,6 +663,7 @@
         "alias": "ZW37 - Cit\u00e9 M4",
         "exit_id": "2872317",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -644,6 +681,7 @@
         "alias": "ZW38 - Invalides M13",
         "exit_id": "2872732",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -661,6 +699,7 @@
         "alias": "ZW39 - Carrefour Pleyel M13",
         "exit_id": "4958655",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -678,6 +717,7 @@
         "alias": "ZW40 - Antony RER B",
         "exit_id": "5134879",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -695,6 +735,7 @@
         "alias": "ZW41 - Biblioth\u00e8que Fran\u00e7ois Mitterand M14",
         "exit_id": "14559688",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -712,6 +753,7 @@
         "alias": "ZW42 - Ch\u00e2teau de Vincennes M1",
         "exit_id": "2235705",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -729,6 +771,7 @@
         "alias": "ZW43 - Porte de Clignancourt M4",
         "exit_id": "2871872",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -746,6 +789,7 @@
         "alias": "ZW44 - P\u00e8re Lachaise M2",
         "exit_id": "14463450",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -763,6 +807,7 @@
         "alias": "ZW45 - Saint-Denis - Porte de Paris M13",
         "exit_id": "4960627",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -780,6 +825,7 @@
         "alias": "ZW46 - Porte de Vincennes M1",
         "exit_id": "2872648",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -797,6 +843,7 @@
         "alias": "ZW47 - Abbesses M12",
         "exit_id": "2872193",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -814,6 +861,7 @@
         "alias": "ZW48 - Ecole Militaire M8",
         "exit_id": "2871907",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -831,6 +879,7 @@
         "alias": "ZW49 - Villejuif - Louis Aragon M7",
         "exit_id": "4110260",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -848,6 +897,7 @@
         "alias": "ZW50 - Porte de Champerret M3",
         "exit_id": "2872134",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -865,6 +915,7 @@
         "alias": "ZW51 - Basilique de Saint-Denis M13",
         "exit_id": "4958646",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -882,6 +933,7 @@
         "alias": "ZW52 - Jussieu M10",
         "exit_id": "2872036",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -899,6 +951,7 @@
         "alias": "ZW53 - Cour Saint-Emilion M14",
         "exit_id": "2872691",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -916,6 +969,7 @@
         "alias": "ZW54 - Pont de S\u00e8vres M9",
         "exit_id": "1869344",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -933,6 +987,7 @@
         "alias": "ZW55 - Miromesnil M9",
         "exit_id": "2872102",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -950,6 +1005,7 @@
         "alias": "ZW56 - Ch\u00e2telet - Les Halles RER A",
         "exit_id": "2872567",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -967,6 +1023,7 @@
         "alias": "ZW57 - Ch\u00e2telet - Les Halles RER A",
         "exit_id": "2872455",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -984,6 +1041,7 @@
         "alias": "ZW58 - Auber RER A",
         "exit_id": "2872000",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -1001,6 +1059,7 @@
         "alias": "ZW59 - Luxembourg RER B",
         "exit_id": "2872089",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     },
@@ -1018,6 +1077,7 @@
         "alias": "ZW60 - Bercy M14",
         "exit_id": "2872698",
         "marker-size": "small",
+        "marker-symbol": "information-15",
         "type": "zenway"
       }
     }
