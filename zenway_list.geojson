@@ -1140,6 +1140,25 @@
         "marker-symbol": "bus",
         "type": "zenway"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35257,
+          48.857117
+        ]
+      },
+      "properties": {
+        "id": "zw80",
+        "alias": "ZW80 - Office du Tourisme et des Congrès de Paris",
+        "exit_id": "2871908",
+        "marker-size": "small",
+        "marker-color": "#00c4b3",
+        "marker-symbol": "information",
+        "type": "zenway"
+      }
     }
   ]
 }
